@@ -1,0 +1,13 @@
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\bin\Debug\netcoreapp3.1\laboratorna1.exe
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\bin\Debug\netcoreapp3.1\laboratorna1.deps.json
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\bin\Debug\netcoreapp3.1\laboratorna1.runtimeconfig.json
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\bin\Debug\netcoreapp3.1\laboratorna1.runtimeconfig.dev.json
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\bin\Debug\netcoreapp3.1\laboratorna1.dll
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\bin\Debug\netcoreapp3.1\laboratorna1.pdb
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\obj\Debug\netcoreapp3.1\laboratorna1.csprojAssemblyReference.cache
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\obj\Debug\netcoreapp3.1\laboratorna1.AssemblyInfoInputs.cache
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\obj\Debug\netcoreapp3.1\laboratorna1.AssemblyInfo.cs
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\obj\Debug\netcoreapp3.1\laboratorna1.csproj.CoreCompileInputs.cache
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\obj\Debug\netcoreapp3.1\laboratorna1.dll
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\obj\Debug\netcoreapp3.1\laboratorna1.pdb
+D:\UNIVER\8semestr\graphs\laboratorna1\laboratorna1\obj\Debug\netcoreapp3.1\laboratorna1.genruntimeconfig.cache
